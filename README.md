@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ashutosh Tripathy</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
-<h3 align="center"> Working AS a Software Engineer at Fynd</h3>
+<h3 align="center"> Working as a Software Engineer at Fynd</h3>
 
 - 🔭 I’m currently working on **Python FastAPI Projects**
 
